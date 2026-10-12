@@ -1,7 +1,7 @@
 # Neobis
 
 Creation date 27/09/2026
-The author is Maksat Beyshekeev  
+The author is Asenov Iran
 
 ## Some basic Git commands are:
 
